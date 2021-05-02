@@ -6,11 +6,8 @@ import Services from "./components/Services";
 import About from "./components/About";
 import Prices from "./components/Prices";
 import Contact from "./components/Contact";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-} from "react-router-dom";
+
+
 
 function App() {
   return (
