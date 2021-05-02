@@ -11,9 +11,9 @@ const Banner = () => {
    const [state] = React.useState({
     title: "I am Jonathan Doe",
     text:
-      "i,m Jonathan, professional web developer with long time \
+      "i,m Saifullah, professional web developer with long time \
     experience in this field​",
-    // image: "../images/image 12 (2).png",
+   
   });
   return (
     <header className="header">
