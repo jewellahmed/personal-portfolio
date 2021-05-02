@@ -16,7 +16,7 @@ function App() {
       <Nav />
       <Services />
       <About />
-      <Prices />
+      <Prices/>
       <Contact />
     </div>
   );

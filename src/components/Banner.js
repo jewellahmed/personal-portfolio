@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 const Banner = () => {
    const [state] = React.useState({
-    title: "I am Jonathan Doe",
+    title: "I am Saifullah Monsur",
     text:
       "i,m Saifullah, professional web developer with long time \
     experience in this field​",
